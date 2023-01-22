@@ -1,0 +1,240 @@
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Rammetto+One");
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+:root {
+    --Dark-beige:  #E6DACD;
+    --Light-beige:  #F4ECE6;
+    --Royal-blue:  #0150FD;
+    --Black:  #000;
+    --White:  #FFF;
+    --Creamy:  #f9fafa;
+    --dark-olive:  #20303c;
+    --Orange: #ff9f1c;
+    --blue-tinge: #2ec4b6;
+}
+
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 100%;
+  line-height: 1.6;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  color: #333;
+  background-color: var(--Creamy);
+}
+
+.container {
+  width: 100%;
+  max-width: 992px;
+  margin: 0 auto;
+  padding: 0 1em;
+  background-color: var(--Light-beige);
+}
+h2{
+   text-align: center;
+   margin-top: 50px;
+   font-size: 30px;
+}
+.products__movies{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+   grid-gap: 1.3rem;
+   margin: 1.3rem auto;
+   max-width: 1240px;
+   padding: 20px;
+   
+   
+}
+.product-movies{
+   padding: 10px;
+   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+.product-movies img{
+   width: 100%;
+   height: 50%;
+   display: block;
+}
+.product-movies .title{
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-weight: 600;
+   text-transform: uppercase;
+}
+.product-movies .description{
+   padding: 0 20px 10px 20px;
+   line-height: 22px;
+}
+.product-movies .price{
+   text-align: center;
+   font-weight: 600;
+   font-size: 28px;
+   color: #9b0b03;
+   padding-top: 15px;
+   font-family: sans-serif;
+   text-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+   
+}
+.product-movies .cart{
+   text-align: center;
+   padding: 1rem 0;
+   margin-top: 1rem;
+   background-color: orange;
+   color: white;
+   font-size: 18px;
+   cursor: pointer;
+}
+.product-movies .cart i{
+   padding-left: 10px;
+}
+.product-movies .stock{
+    padding: 1rem;
+}
+.view-more{
+   margin: 0 auto;
+   max-width: 1240px;
+   padding: 20px;
+   text-align: center;
+}
+.view-more button{
+   padding: 10px 25px;
+}
+
+/*cart css */
+.header .header__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+.header .header__cart .header__submenu .shopping-cart-container {
+  position: absolute;
+  top: 100px;
+  right: 0;
+  padding: 1em;
+  background-color: var(--Light-beige);
+  z-index: 2;
+  transform: scale(0);
+  transform: translate(-10px);
+  opacity: 0;
+  pointer-events: none;
+}
+.header .header__cart .header__submenu .shopping-cart-container.open {
+  -webkit-animation: fade-down 0.3s forwards;
+          animation: fade-down 0.3s forwards;
+  pointer-events: auto;
+}
+.header .header__cart .header__submenu .cart {
+  fill: var(--blue-tinge);
+  display: inline-block;
+   float: left;
+  margin-right: 2px;
+  cursor: pointer;
+}
+.header .header__cart .header__cart-btn {
+  background-color: transparent;
+  border: 2px solid var(--blue-tinge);
+  padding: 0.8em;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+.header .header__cart .header__cart-btn:hover, .header .header__cart .header__cart-btn:focus {
+  border: 3px solid var(--blue-tinge);
+}
+.header .header__cart .header__submenu {
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+.header .header__cart .header__submenu .shopping-cart-container {
+  text-align: center;
+  min-width: 300px;
+}
+.header .header__cart .header__submenu .shopping-cart-container table {
+  width: 100%;
+  padding: 0.5em;
+  padding-bottom: 2em;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 2.5em;
+}
+.header .header__cart .header__submenu .shopping-cart-container table thead th {
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--blue-tinge);
+}
+.header .header__cart .header__submenu .shopping-cart-container table tbody {
+  padding-bottom: 4em;
+}
+.header .header__cart .header__submenu .shopping-cart-container table tbody td {
+  padding: 0.5em;
+}
+.header .header__cart .header__submenu .cart-image {
+  max-width: 120px;
+}
+.header .header__cart .header__submenu .remove {
+  text-align: center;
+  width: 120px;
+  height: 120px;
+  padding: 5px 10px;
+  border-radius: 50%;
+  background-color: var(--blue-tinge);
+  color: var(--dark-olive);
+  transition: background-color 0.3s ease-out;
+}
+.header .header__cart .header__submenu .remove:hover,
+.header .header__cart .header__submenu .remove:focus {
+  background-color: var(--blue-tinge);
+}
+.header .header__cart .header__submenu .cart-btn {
+  display: block;
+  margin-bottom: 10px;
+  padding: 0.3em;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  background-color: transparent;
+  color: var(--dark-olive);
+  border: 1px solid var(--blue-tinge);
+}
+.header .header__cart .header__submenu .cart-btn:hover, .header .header__cart .header__submenu .cart-btn:focus {
+  background-color: var(--blue-tinge);
+  color: var(--Light-beige);
+}
+.header .header__submenu .total-container {
+  text-align: center;
+}
+.header .header__submenu .total-container .total {
+  font-weight: bold;
+  font-size: 1.3em;
+}
+.header .header__title {
+  font-family: "Rammetto One", cursive;
+  font-size: 2rem;
+  color: var(--blue-tinge);
+}
+.header .header__subtitle {
+  font-size: 1.2rem;
+  display: block;
+  margin-top: -10px;
+  line-height: 0.9;
+  margin-left: 20px;
+}
+.header .header__main {
+  height: 35vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../img/banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  
+}

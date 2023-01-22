@@ -1,0 +1,289 @@
+[
+   {
+   "Title": "The Shawshank Redemption",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/the-pianist_a4fcd9c6_500x749.jpg?v=1626109939",
+   "price": "18.99",
+   "description": ["142-min.", "1994", "Frank Darabont"],
+    "Genres": "Drama",
+    "stock":"8"
+ },
+ {
+   "description": ["175-min", "1972", "Francis Ford Coppola"],
+   "Title": "The Godfather",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/b5282f72126e4919911509e034a61f66_6ce2486d-e0da-4b7a-9148-722cdde610b8_500x749.jpg?v=1573616025",
+   "Genres": "Crime, Drama",
+    "stock": "10",
+    "price":"21.99" },
+   
+  {
+   "Title": "The Dark Knight",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/darkknight.building.24x36_480x.progressive.jpg?v=1648745678",
+   "description":["152-min.", " 2008","Christopher Nolan" ],
+   "Genres": "Action, Crime, Drama, Thriller",
+   "stock": "25",
+   "price": "19.99"
+ },
+ {
+   "description": ["202-min", "1974", "Francis Ford Coppola"],
+   "Title": "The Godfather Part II",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/godfather2_500x749.jpg?v=1653594825",
+   "Genres": "Crime, Drama",
+    "stock": "10",
+    "price":"21.99" },
+ {
+   "description": ["96-min", "1957", "Sidney Lumet"],
+   "Title": "12 Angry Men",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/3a5bd5d26fb4e65a922508e7ce597d5e_2c03f332-fc4d-4df2-b6ac-61d577804ea8_500x749.jpg?v=1573592716",
+   "Genres": "Crime, Drama",
+    "stock": "12",
+    "price":"18.99" },
+ 
+    {
+   "description": ["195-min", "1993", "Steven Spielberg"],
+   "Title": "Schindler's List",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/891b33652234029b0638095439f27d81_92f913d0-f315-4c5d-a8d5-93aae832f7bf_500x749.jpg?v=1573651232",
+   "Genres": "Biography, Drama, History",
+    "stock": "10",
+    "price":"24.99" },
+ 
+    {
+   "description": ["201-min", "1972", "Peter Jackson"],
+   "Title": "The Lord of the Rings: The Return of the King",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/57217382501bd0df4a0c03400e472590_9600901c-5960-4d49-a4e0-e8caa75042e6_500x749.jpg?v=1573588792",
+   "Genres": "Action, Adventure, Drama, Fantasy",
+    "stock": "5",
+    "price":"16.99" },
+    {
+   "description": ["179-min", "2002", "Peter Jackson"],
+   "Title": "The Lord of the Rings: The Two Towers",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/the-lord-of-the-rings-the-two-towers_0epuid3z_500x749.jpg?v=1651588290",
+   "Genres": "Action, Adventure, Drama, Fantasy",
+    "stock": "14",
+    "price":"23.99" },
+ 
+ {
+   "description": ["178-min", "2001", "Peter Jackson"],
+   "Title": "The Lord Of the Rings: The Fellowship of the Ring",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/b1b6860c465f64983d81a2ce14019d7e_cb04f573-c07e-4fc4-af7d-72fcb83623d6_500x749.jpg?v=1573588822",
+   "Genres": "Action, Adventure, Drama, Fantasy",
+    "stock": "10",
+    "price":"21.99" },
+ {
+   "description": ["161-min", "1966", "Sergio Leone"],
+   "Title": "Il buono, il brutto, il cattivo",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/87b576bb013aad503b85584bdf0d60aa_3600df0a-9107-49af-9e66-fc295723bd7f_500x749.jpg?v=1573618994",
+   "Genres": "Adventure, Western",
+    "stock": "5",
+    "price":"28.99" },
+ {
+   "description": ["142-min", "1994", "Robert Zemeckis"],
+   "Title": "Forrest Gump",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/forrest-gump---24x36_500x749.jpg?v=1645558337",
+   "Genres": "Drama, Romance",
+    "stock": "14",
+    "price":"23.99" },
+ 
+    {
+   "description": ["139-min", "1999", "David Fincher"],
+   "Title": "Fight Club",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/63e5f4b3406e1e5cb48a4f879184a5c5_f1a887b6-ff7f-4371-ae5d-5cd62e59a3ce_500x749.jpg?v=1573652623",
+   "Genres": "Drama",
+    "stock": "24",
+    "price":"23.99" },
+ 
+ {
+   "description": ["154-min", "1994", "Quentin Tarantino"],
+   "Title": "Pulp Fiction",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ab401c136cca10812cda5ac64c3f7c2e_bb5e62f7-b34f-4547-b5c7-495cc2dd1bd9_500x749.jpg?v=1573591339",
+   "Genres": "Crime, Drama",
+    "stock": "20",
+    "price":"21.99" },
+ 
+ {
+   "description": ["148-min", "2010", "Christopher Nolan"],
+   "Title": "Inception",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/7dfddd911b8040729896c5be83f8e139_6e2f4149-8cb4-414c-a33b-9e0065c55af3_500x749.jpg?v=1573585216",
+   "Genres": "Action, Adventure, Sci-Fi, Thriller",
+    "stock": "8",
+    "price":"22.99" },
+ {
+   "description": ["124-min", "1980", "Irvin Kershner"],
+   "Title": "The Empire Strikes Back",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/35d9a190368d4b3cb300c6704e6f5870_c17dfb7e-c096-42a5-9ddb-a9ef0c978c74_500x749.jpg?v=1573587464",
+   "Genres": "Action, Adventure, Fantasy, Sci-Fi",
+    "stock": "10",
+    "price":"15.99" },
+    {
+   "description": ["136-min", "1999", "Lana Wachowski"],
+   "Title": "The Matrix",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/96ec95d3cb7204b42235017af4da7940_a681c9a4-5bbb-42ab-b2ac-135a94327dbb_500x749.jpg?v=1573587595",
+   "Genres": "Action, Sci-Fi",
+    "stock": "20",
+    "price":"21.99" },
+ {
+   "description": ["145-min", "1990", "Martin Scorsese"],
+   "Title": "Goodfellas",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/3200a1052cc853f37c2b6cb7989c55f8_83cab358-88d3-4e5a-99ca-2492e8438070_500x749.jpg?v=1573585488",
+   "Genres": "Biography, Crime, Drama",
+    "stock": "6",
+    "price":"17.99" },
+{
+   "description": ["133-min", "1975", "Milos Forman"],
+   "Title": "One Flew Over the Cuckoo's Nest",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/2e446a5433b4862558acef03bb05aaf1_c0acd4c8-919a-47c1-9b33-8231549323e2_500x749.jpg?v=1573653805",
+   "Genres": "Drama",
+    "stock": "16",
+    "price":"18.99" },
+{
+   "description": ["127-min", "1995", "David Fincher"],
+   "Title": "Se7en",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/a1106cc8beb5e35d57cb00026ed250c9_8268f124-b4bc-4e8a-86ec-2d2a148b07b3_500x749.jpg?v=1573651454",
+   "Genres": "Crime, Drama, Mystery, Thriller",
+    "stock": "13",
+    "price":"22.99" },
+ {
+   "description": ["207-min", "1954", "Akira Kurosawa"],
+   "Title": "Shichinin no samurai",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ae972c0d56ac146e6d1bce444425a367_2e753105-b52c-4e01-9011-00df5a19e437_500x749.jpg?v=1573592757",
+   "Genres": "Action, Drama",
+    "stock": "4",
+    "price":"28.99" },
+
+ {
+   "description": ["133-min", "1946", "Frank Capra"],
+   "Title": "It's a Wonderful Life",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/itsawonderfullife24x36_500x749.jpg?v=1617745735",
+   "Genres": "Drama, Family, Fantasy, Romance",
+    "stock": "7",
+    "price":"13.99" },
+
+ {
+   "description": ["133-min", "1975", "Milos Forman"],
+   "Title": "One Flew Over the Cuckoo's Nest",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/2e446a5433b4862558acef03bb05aaf1_c0acd4c8-919a-47c1-9b33-8231549323e2_500x749.jpg?v=1573653805",
+   "Genres": "Drama",
+    "stock": "16",
+    "price":"18.99" },
+
+    {
+   "description": ["118-min", "1991", "Jonathan Demme"],
+   "Title": "The Silence of the Lambs",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/be18bfa3ea3ac44a05f1bc9a1c23dbf4_9254635c-db68-4c19-9620-36f1e56c64f2_500x749.jpg?v=1573651246",
+   "Genres": "Crime, Drama, Thriller",
+    "stock": "1",
+    "price":"27.99" },
+
+ {
+   "description": ["130-min", "2002", "K.Lund"],
+   "Title": "Cidade de Deus",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/65620b1f3ad6fbef91ff404b52a9fc58_ae9a7d4e-93e8-4994-8d77-d3b059c81cf7_500x749.jpg?v=1573585176",
+   "Genres": "Crime, Drama",
+    "stock": "6",
+    "price":"16.99" },
+
+ {
+   "description": ["169-min", "1998", "Steven Spielberg"],
+   "Title": "Saving Private Ryan",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/cf75ad831323d724a89f40c275137203_b8eff348-419f-4acb-8e22-f0cc770c14c4_500x749.jpg?v=1573593933",
+   "Genres": "Drama, War",
+    "stock": "16",
+    "price":"18.99" },
+
+ {
+   "description": ["116-min", "1997", "Roberto Benigini"],
+   "Title": "La vita Ã¨ bella",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/7b793b0d8d782f2a43194e1cfa9c8c68_b62c9a92-1f96-431a-89b7-cd2745d15909_500x749.jpg?v=1573587325",
+   "Genres": "Comedy, Drama, Romance, War",
+    "stock": "2",
+    "price":"18.99" },
+
+{
+   "description": ["169-min", "2014", "Christopher Nolan"],
+   "Title": "Interstellar",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/interstellar3_500x749.jpg?v=1585846947",
+   "Genres": "Adventure, Drama, Sci-Fi",
+    "stock": "8",
+    "price":"18.99" },
+ {
+   "description": ["189-min", "1999", "Frank Darabont"],
+   "Title": "The Green Mile",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/033152cb8ba4518411a359686f4a194e_17902365-17d5-4fff-8e46-af5198c13d93_500x749.jpg?v=1616103020",
+   "Genres": "Crime, Drama, Mystery, Thriller",
+    "stock": "5",
+    "price":"13.99" },
+
+ {
+   "description": ["121-min", "1977", "George Lucas"],
+   "Title": "Star Wars",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/6cd691e19fffbe57b353cb120deaeb8f_8489d7bf-24ba-4848-9d0f-11f20cb35025_480x.progressive.jpg?v=1573613877",
+   "Genres": "Action, Adventure, Drama, Fantasy",
+    "stock": "4",
+    "price":"18.99" },
+
+ {
+   "description": ["137-min", "1991", "James Cameron"],
+   "Title": "Terminator 2: Judgment Day",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/terminator2.flatshelf_500x749.jpg?v=1582312154",
+   "Genres": "Action, Sci-Fi",
+    "stock": "7",
+    "price":"28.99" },
+
+ {
+   "description": ["116-min", "1985", "Robert Zemeckis"],
+   "Title": "Back to the Future",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/54601_480x.progressive.jpg?v=1658256889",
+   "Genres": "Adventure, Comedy, Sci-Fi",
+    "stock": "3",
+    "price":"15.99" },
+
+ {
+   "description": ["125-min", "2001", "Hayao Miyazaki"],
+   "Title": "Sen to Chihiro no kamikakushi",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/facb543a93a9f819fd8f82fa7521ed9e_0b283c3a-5599-47c7-b09d-2b2276db0414_480x.progressive.jpg?v=1573613646",
+   "Genres": "Animation, Adventure, Drama",
+    "stock": "16",
+    "price":"18.99" },
+
+ {
+   "description": ["109-min", "1960", "Alfred Hitchcock"],
+   "Title": "Psycho",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/88e906bdfb8f5edb3c296763b2d493f3_5a0dba93-779d-4b22-83b5-358c9dbfd6c4_500x749.jpg?v=1573655105",
+   "Genres": "Horror, Mystery, Thriller",
+    "stock": "6",
+    "price":"16.99" },
+
+ {
+   "description": ["150-min", "2002", "Roman Polanski"],
+   "Title": "The Pianist",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/the-pianist_a4fcd9c6_500x749.jpg?v=1626109939",
+   "Genres": "Drama",
+    "stock": "2",
+    "price":"18.99" },
+
+    {
+   "description": ["133-min", "2019", "Bong Joon Ho"],
+   "Title": "Gisaengchung",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/deee8f0d19ceed2149ac38c3695e53f4_e80bf44d-ada7-400a-be54-bd3664961f95_500x749.jpg?v=1573617369",
+   "Genres": "Drama",
+    "stock": "5",
+    "price":"20.99" },
+
+{
+   "description": ["113-min", "1994", "Luc Besson"],
+   "Title": "LÃ©on",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/6a5d7462c47b6d7347bb148a580918fe_873de042-b6d1-4954-b2f6-8b994864a69c_500x749.jpg?v=1573585422",
+   "Genres": "Action, Drama",
+    "stock": "26",
+    "price":"15.99" },
+{
+   "description": ["88-min", "1994", "Rob Minkoff"],
+   "Title": "The Lion King",
+   "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/a367af8b717f224288f8664c7cf100f3_97fe025c-7bb8-41e2-bc39-8387f905d075_480x.progressive.jpg?v=1573572646",
+   "Genres": "Animation, Adventure, Drama",
+    "stock": "36",
+    "price":"14.99" }
+
+ ]
+
+
+
